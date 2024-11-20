@@ -1,0 +1,6 @@
+ZQSD for camera control
+
+right click to move player to cursor
+left click to build a tower
+
+Enter to start next wave
